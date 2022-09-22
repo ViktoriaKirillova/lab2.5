@@ -26,5 +26,5 @@ for i in range(n):
 first.sort()
 second.sort()
 
-print("Первая команда:\n", *first)
-print("Вторая команда:\n", *second)
+print("First team:\n", *first)
+print("Second team:\n", *second)
